@@ -4,6 +4,12 @@
 
 Dieses Repository dient als zentrales Publisher-Repo für meine Musikprojekte, in dem **Songtexte**, **Album-Cover**, **Social-Media-Thumbnails** sowie die zugehörigen **Audio- (MP3)** und **Video-Releases (MP4)** organisiert werden. Die Lyrics stammen teils aus eigenen Kreativprozessen, teils werden sie mithilfe von KI generiert. Die eigentlichen Songs werden mit Suno AI produziert.
 
+
+## Songs
+
+* [Die Kranken - Zurück](<songs/Die Kranken - Zurück/readme.md>)
+
+
 ## 📁 Ordnerstruktur
 
 Jedes Lied erhält einen eigenen Unterordner mit folgendem Aufbau:
