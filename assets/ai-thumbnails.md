@@ -5,11 +5,11 @@ Hier findest du einen praxis­erprobten **Anweisungskatalog** für effektive You
 
 ## 1  Dateiformat & Technische Grundlagen
 - **Abmessungen & Seitenverhältnis**   
-  Nutze 1280 × 720 px (16:9) – das von YouTube empfohlene Maximum, das in allen Player-Größen scharf bleibt.  
+  Nutze IMMER 16:9 Format – das von YouTube empfohlene Maximum, das in allen Player-Größen scharf bleibt.  
 - **Dateigröße & Format**   
   Speichere als JPG oder PNG ≤ 2 MB, sonst komprimiert YouTube nach und Qualität leidet.  
 - **Sicherheits­zonen**   
-  Halte 5 % Rand frei; so verdecken weder Zeitstempel noch YouTube-UI deine Kernelemente.
+  Halte IMMER 5 % Rand frei; so verdecken weder Zeitstempel noch YouTube-UI deine Kernelemente.
 
 ## 2  Visuelle Hierarchie
 ### 2.1 Fokus auf das Hauptmotiv
