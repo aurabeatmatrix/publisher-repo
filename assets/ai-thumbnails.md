@@ -9,7 +9,7 @@ Hier findest du einen praxis­erprobten **Anweisungskatalog** für effektive You
 - **Dateigröße & Format**   
   Speichere als JPG oder PNG ≤ 2 MB, sonst komprimiert YouTube nach und Qualität leidet.  
 - **Sicherheits­zonen**   
-  Halte IMMER 5 % Rand frei; so verdecken weder Zeitstempel noch YouTube-UI deine Kernelemente.
+  Halte IMMER 20 % Rand frei; so verdecken weder Zeitstempel noch YouTube-UI deine Kernelemente.
 
 ## 2  Visuelle Hierarchie
 ### 2.1 Fokus auf das Hauptmotiv
@@ -33,10 +33,10 @@ Hier findest du einen praxis­erprobten **Anweisungskatalog** für effektive You
 - **Rot als Akzent**: Rot steht für Energie & Leidenschaft und zieht Blicke magne­tisch an.  
 
 ## 5  Branding-Balken (Pflicht­element)
-- Erstelle einen **vollflächigen roten Balken** (empfohlen #D80000) mit min. 40 px Höhe.  
+- Erstelle einen **vollflächigen roten Balken** (empfohlen #D80000) mit min. 40 px Höhe.  Mit Randabstand 20%!
 - Setze den Text **„© Aura Beat Matrix Records 2025“** zentriert in Weiß auf den Balken.  
 - Achte auf ausreichenden Kontrast (≈ 8 : 1 zwischen Weiß und Rot) – deutlich über dem WCAG-Minimum und somit auch auf Smartphones gut lesbar ([WCAG Contrast (Minimum) Explained - Stark](https://www.getstark.co/wcag-explained/perceivable/distinguishable/contrast-minimum/)).  
-- Sperre 3-4 % Abstand zwischen Text und Thumbnail-Rand, damit der Balken trotz Device-Crop sichtbar bleibt.
+- Sperre 20 % Abstand zwischen Text und Thumbnail-Rand, damit der Balken trotz Device-Crop sichtbar bleibt.
 
 ## 6  Komposition & Bildsprache
 - **Dreipunkt-Layout**: Hauptmotiv – Titel-Text – Branding-Balken. Diese „Z-Leserichtung“ führt den Blick optimal.  
